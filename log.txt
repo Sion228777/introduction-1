@@ -1,0 +1,10 @@
+C:\GItHub\introduction-1>git log --oneline --all
+7bf973a (HEAD -> main) Добавил status.txt
+0566179 (origin/main, origin/HEAD) Добавил README.md
+16db002 Добавил README.md
+645af71 Добавил README.md
+42abefb Delete README.md
+e110574 Update README.md
+be07c38 Initial commit
+
+C:\GItHub\introduction-1>
